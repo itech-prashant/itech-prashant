@@ -8,7 +8,10 @@
 <p> <img src="https://komarev.com/ghpvc/?username=itech-prashant&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
 
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/itech-prashant)](https://www.codechef.com/users/itech-prashant) -->
-
+.
+.
+.
+.
 ### 📖 &nbsp; About Me
 - 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
 - 🐍 Earlier **Data Engineer** at [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
@@ -73,7 +76,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikit-learn)
+![Scikitlearn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikitlearn)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=python)
