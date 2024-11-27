@@ -12,7 +12,7 @@
 ### 📖 &nbsp; About Me
 - 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
 - 🐍 Earlier **Data Engineer** at [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
-- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/itech-prashant)
+- 👨‍💻 Some of my projects are available at [Github Profile](https://github.com/itech-prashant)
 - 🧭 Currently working on **Databricks Data Intelligence Platform**
 <!-- - 📝 I regularly write articles on [my blog](https://itech-prashant.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://itech-prashant.in) -->
@@ -27,6 +27,9 @@
 <a target="_blank" href="https://instagram.com/prashant_realist"><img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 </p>
+
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
