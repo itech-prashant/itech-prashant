@@ -1,41 +1,62 @@
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Prashant</h1>
-<h3 align="center">Cloud Data Engineer | Microsoft Azure and Databricks Certified Data Engineer Associate</h3>
-<h4>I am deeply passionate about Data Engineering, Data Science, Machine Learning, Gen AI and DataOps.<br> Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
-<p><img align="right" height="430em" src="animation_500_kxa883sd.gif" alt="itech-prashant" /></p>
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Prashant
+</h1>
+<h3 align="center">
+Cloud Data Engineer | Microsoft Azure and Databricks Certified Data Engineer Associate
+</h3>
+<h4>
+I am deeply passionate about Data Engineering, Data Science, Machine Learning, Gen AI and DataOps.<br>Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.
+</h4>
+<p>
+<img align="right" height="430em" src="animation_500_kxa883sd.gif" alt="itech-prashant" />
+</p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=itech-prashant&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=itech-prashant&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" />
+</p>
 
-<!-- [![Badge](https://cp-logo.vercel.app/codechef/itech-prashant)](https://www.codechef.com/users/itech-prashant) -->
 [![Badge](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-orange?logo=databricks&logoColor=white)](https://credentials.databricks.com/853973c5-b834-40aa-9bd8-b514234d8716#gs.irv21d)
+<br>
 [![Badge](https://img.shields.io/badge/Microsoft-Certified%20Azure%20Data%20Engineer-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/prashant-1080/credentials/3fe3ad418f1b963)
+<br>
 [![Badge](https://img.shields.io/badge/Resume-View%20Now-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dBtH9FfAf4yfoxksAgkPFr1z8hhmMef4/view?usp=sharing)
-
+<br>
 
 ### 📖 &nbsp; About Me
 - 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
 - 🐍 Earlier **Data Engineer** at [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
 - 👨‍💻 Some of my projects are available at [Github Profile](https://github.com/itech-prashant)
 - 🧭 Currently working on **Databricks Data Intelligence Platform**
+
 <!-- - 📝 I regularly write articles on [my blog](https://itech-prashant.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://itech-prashant.in) -->
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/itech-prashant) -->
 
 ### ✉️ &nbsp; Connect with me
 <p align="left">
-<a target="_blank" href="https://linkedin.com/in/itech-prashant"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://linkedin.com/in/itech-prashant">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+</img>
+</a>
 &emsp;
-<a target="_blank" href="mailto:itech.prash@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:itech.prash@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+</img>
+</a>
 &emsp;
-<a target="_blank" href="https://instagram.com/prashant_realist"><img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/prashant_realist">
+<img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white">
+</img>
+</a>
 &emsp;
-<a target="_blank" href="https://x.com/itech_prashant"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></img></a>
+<a target="_blank" href="https://x.com/itech_prashant">
+<img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white">
+</img>
+</a>
 &emsp;
 </p>
-
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -137,7 +158,10 @@
 
 <p align="center">
 <a href="https://github.com/itech-prashant">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itech-prashant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=itech-prashant&theme=tokyonight" alt="itech-prashant" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itech-prashant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+&nbsp;
+&nbsp;
+&nbsp;
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=itech-prashant&theme=tokyonight" alt="itech-prashant" />
 </a>
 </p>
