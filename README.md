@@ -30,7 +30,65 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+### Tools
+![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-05122A?style=flat&logo=azure)
+![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-05122A?style=flat&logo=azuredatabricks)
+![Logic App](https://img.shields.io/badge/-Logic%20App-05122A?style=flat&logo=azurelogicapps)
+![Azure Synapse Analytics](https://img.shields.io/badge/-Azure%20Synapse%20Analytics-05122A?style=flat&logo=azuresynapse)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-05122A?style=flat&logo=azurefunctions)
+![Azure Data Explorer](https://img.shields.io/badge/-Azure%20Data%20Explorer-05122A?style=flat&logo=azuredataexplorer)
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
+![SQL Server Management Studio](https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-05122A?style=flat&logo=microsoftsqlserver)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azuredevops)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+### Databases
+![Azure Blob Storage](https://img.shields.io/badge/-Azure%20Blob%20Storage-05122A?style=flat&logo=azureblobstorage)
+![Azure Data Lake Storage](https://img.shields.io/badge/-Azure%20Data%20Lake%20Storage-05122A?style=flat&logo=azuredataexplorer)
+![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-05122A?style=flat&logo=azure)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+
+### Frameworks and Libraries
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachepyspark)
+![Extract Transform Load](https://img.shields.io/badge/-Extract%20Transform%20Load-05122A?style=flat&logo=apache)
+![Distributed Computing](https://img.shields.io/badge/-Distributed%20Computing-05122A?style=flat&logo=apachehadoop)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache)
+![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-05122A?style=flat&logo=delta)
+![Lakehouse](https://img.shields.io/badge/-Lakehouse-05122A?style=flat&logo=azure)
+![Medallion Architecture](https://img.shields.io/badge/-Medallion%20Architecture-05122A?style=flat&logo=azure)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-05122A?style=flat&logo=tableau)
+![Data Warehouse](https://img.shields.io/badge/-Data%20Warehouse-05122A?style=flat&logo=tableau)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=git)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikit-learn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=python)
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat&logo=python)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=python)
+![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=python)
+![Pandas AI](https://img.shields.io/badge/-Pandas%20AI-05122A?style=flat&logo=pandas)
+![Vector DB](https://img.shields.io/badge/-Vector%20DB-05122A?style=flat&logo=python)
+
+### Programming
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![OOPs](https://img.shields.io/badge/-OOPs-05122A?style=flat&logo=python)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=python)
+![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=python)
+
+
+<!-- - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)\
@@ -39,7 +97,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)&nbsp;
-![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)&nbsp;
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)&nbsp;-->
 
 <!-- -[JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch&logoColor=4287f5)&nbsp;
