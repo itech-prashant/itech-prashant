@@ -5,26 +5,26 @@
 <h4>I am deeply passionate about Data Engineering, Data Science, Machine Learning and Gen AI. Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
 <p><img align="right" height="430em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
 
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
 
 ### 📖 &nbsp; About Me
 - 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
-- 🐍 **Data Engineer** at [Xduce](https://www.xduce.com)
+- 🐍 Earlier **Data Engineer** at [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/itech-prashant)
 - 🧭 Currently working on **Databricks Data Intelligence Platform**
-<!-- - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/) -->
-<!-- - 📄 Go through my portfolio on [my site](https://mrahul.me) -->
-<!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
+<!-- - 📝 I regularly write articles on [my blog](https://itech-prashant.blogspot.com/) -->
+<!-- - 📄 Go through my portfolio on [my site](https://itech-prashant.in) -->
+<!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/itech-prashant) -->
 
 ### ✉️ &nbsp; Connect with me
 <p align="left">
-<a target="_blank" href="https://linkedin.com/in/rahul-m-a65795197"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://linkedin.com/in/itech-prashant"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:rahul2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:itech.prash@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://instagram.com/rahul._.2220"><img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/prashant_realist"><img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 </p>
 
@@ -67,8 +67,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/rahul2002m">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" />
+<a href="https://github.com/itech-prashant">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itech-prashant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=itech-prashant&theme=tokyonight" alt="itech-prashant" />
 </a>
 </p>
