@@ -31,7 +31,17 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<!-- -[JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch&logoColor=4287f5)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)\
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![SciKitLearn](https://img.shields.io/badge/-Sci--Kit_Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)&nbsp;
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)&nbsp;
+
+<!-- -[JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
@@ -51,16 +61,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
-![OpenSearch](https://img.shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch&logoColor=4287f5)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)\
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![SciKitLearn](https://img.shields.io/badge/-Sci--Kit_Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)&nbsp;
-![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp; -->
 
 
 
