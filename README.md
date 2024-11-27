@@ -5,9 +5,9 @@
 <h4>I am deeply passionate about Data Engineering, Data Science, Machine Learning and Gen AI. Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
 <p><img align="right" height="430em" src="animation_500_kxa883sd.gif" alt="itech-prashant" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=itech-prashant&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
 
-<!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
+<!-- [![Badge](https://cp-logo.vercel.app/codechef/itech-prashant)](https://www.codechef.com/users/itech-prashant) -->
 
 ### 📖 &nbsp; About Me
 - 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
