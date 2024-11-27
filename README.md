@@ -100,7 +100,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
-![Scikitlearn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikit-learn)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=python)
