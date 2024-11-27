@@ -2,7 +2,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prashant</h1>
 <h3 align="center">Cloud Data Engineer | Microsoft Azure and Databricks Certified Data Engineer Associate</h3>
-<h4>I am deeply passionate about programming, constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
+<h4>I am deeply passionate about Data Engineering, Data Science, Machine Learning and Gen AI. Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
 <p><img align="right" height="430em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
@@ -10,10 +10,10 @@
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
 
 ### 📖 &nbsp; About Me
-- 🌱 **Product Engineer** at [Zeko.ai](https://Zeko.ai)
-- 🐍 **Lead Python Developer** at [Zeko.ai](https://zeko.ai)
-- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
-- 🧭 Currently working on **RAG and LLM Building**
+- 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
+- 🐍 **Data Engineer** at [Xduce](https://www.xduce.com)
+- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/itech-prashant)
+- 🧭 Currently working on **Databricks Data Intelligence Platform**
 <!-- - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://mrahul.me) -->
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
