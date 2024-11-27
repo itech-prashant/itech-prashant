@@ -2,7 +2,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Prashant</h1>
 <h3 align="center">Cloud Data Engineer | Microsoft Azure and Databricks Certified Data Engineer Associate</h3>
-<h4>I am deeply passionate about Data Engineering, Data Science, Machine Learning and Gen AI. Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
+<h4>I am deeply passionate about Data Engineering, Data Science, Machine Learning, Gen AI and DataOps.<br> Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
 <p><img align="right" height="430em" src="animation_500_kxa883sd.gif" alt="itech-prashant" /></p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=itech-prashant&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
