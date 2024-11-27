@@ -8,7 +8,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=itech-prashant&label=Profile%20views&color=e89b17&style=flat" alt="itech-prashant" /> </p>
 
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/itech-prashant)](https://www.codechef.com/users/itech-prashant) -->
-[![Badge](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-orange?logo=databricks&logoColor=white)]([[https://www.databricks.com/learn/certification](https://credentials.databricks.com/profile/prashant571901/wallet)](https://credentials.databricks.com/profile/prashant571901/wallet))
+[![Badge](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-orange?logo=databricks&logoColor=white)](https://credentials.databricks.com/853973c5-b834-40aa-9bd8-b514234d8716#gs.irv21d)
+
 
 .
 .
