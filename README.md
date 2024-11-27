@@ -21,7 +21,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 <br>
 [![Badge](https://img.shields.io/badge/Microsoft-Certified%20Azure%20Data%20Engineer-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/prashant-1080/credentials/3fe3ad418f1b963)
 <br>
-[![Badge](https://img.shields.io/badge/Resume-View%20Now-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dBtH9FfAf4yfoxksAgkPFr1z8hhmMef4/view?usp=sharing)
+[![Badge](https://img.shields.io/badge/Resume-View & Download%20Now-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dBtH9FfAf4yfoxksAgkPFr1z8hhmMef4/view?usp=sharing)
 <br>
 
 ### 📖 &nbsp; About Me
@@ -100,7 +100,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-05122A?style=flat&logo=scikit-learn)
+![SciKitLearn](https://img.shields.io/badge/-Sci--Kit_Learn-05122A?style=flat&logo=scikit-learn)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=python)
