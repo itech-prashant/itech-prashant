@@ -10,13 +10,9 @@
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/itech-prashant)](https://www.codechef.com/users/itech-prashant) -->
 [![Badge](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-orange?logo=databricks&logoColor=white)](https://credentials.databricks.com/853973c5-b834-40aa-9bd8-b514234d8716#gs.irv21d)
 [![Badge](https://img.shields.io/badge/Microsoft-Certified%20Azure%20Data%20Engineer-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/prashant-1080/credentials/3fe3ad418f1b963)
+[![Badge](https://img.shields.io/badge/Resume-View%20Now-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dBtH9FfAf4yfoxksAgkPFr1z8hhmMef4/view?usp=sharing)
 
 
-
-.
-.
-.
-.
 ### 📖 &nbsp; About Me
 - 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
 - 🐍 Earlier **Data Engineer** at [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
