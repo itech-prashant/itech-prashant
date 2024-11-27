@@ -28,7 +28,8 @@
 <a target="_blank" href="mailto:itech.prash@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://instagram.com/prashant_realist"><img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-&emsp;<a target="_blank" href="https://x.com/itech_prashant"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://x.com/itech_prashant"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></img></a>
 &emsp;
 </p>
 
