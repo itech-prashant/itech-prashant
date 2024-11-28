@@ -57,6 +57,27 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 </img>
 </a>
 &emsp;
+<a target="_blank" href="https://facebook.com/itech.prashant">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </img>
+</a>
+&emsp;
+<a target="_blank" href="https://youtube.com/@prashant_realist">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </img>
+</a>
+&emsp;
+<a target="_blank" href="https://wa.me/917979849339">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </img>
+</a>
+&emsp;
+<a target="_blank" href="https://threads.net/@prashant_realist">
+  <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
+  </img>
+</a>
+&emsp;
+
 </p>
 
 ### 🛠 &nbsp;Tech Stack
