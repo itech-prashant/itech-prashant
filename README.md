@@ -76,6 +76,12 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
   </img>
 </a>
 &emsp;
+<a target="_blank" href="https://t.me/tg_deml">
+  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </img>
+</a>
+&emsp;
+
 
 </p>
 
