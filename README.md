@@ -21,7 +21,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 <br>
 [![Badge](https://img.shields.io/badge/Microsoft-Certified%20Azure%20Data%20Engineer-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/prashant-1080/credentials/3fe3ad418f1b963)
 <br>
-[![Badge](https://img.shields.io/badge/Resume-View%20Now-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dBtH9FfAf4yfoxksAgkPFr1z8hhmMef4/view?usp=sharing)
+[![Badge](https://img.shields.io/badge/Resume-View%20Now-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18gx0fur9xH_1Nf-8OfX3CKvsPnJ0itUm/view?usp=sharing)
 <br>
 
 ### 📖 &nbsp; About Me
