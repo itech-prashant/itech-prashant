@@ -47,7 +47,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 </img>
 </a>
 &emsp;
-<a target="_blank" href="https://instagram.com/prashant_realist">
+<a target="_blank" href="https://instagram.com/prashant.xplorer">
 <img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white">
 </img>
 </a>
