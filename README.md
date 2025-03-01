@@ -27,8 +27,8 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 <br>
 
 ### 📖 &nbsp; About Me
-- 🌱 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in)
-- 🐍 Earlier **Data Engineer** at [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
+- 🌱 **Data Engineering** at [Merino](https://merinogroup.com/about)
+- 🐍 Earlier **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in) , [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
 - 👨‍💻 Some of my projects are available at [Github Profile](https://github.com/itech-prashant)
 - 🧭 Currently working on **Databricks Data Intelligence Platform**
 
