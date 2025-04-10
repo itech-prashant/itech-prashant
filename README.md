@@ -72,7 +72,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
   </img>
 </a>
 &emsp;
-<a target="_blank" href="https://threads.net/@prashant_realist">
+<a target="_blank" href="https://threads.net/@prashant_xplorer">
   <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
   </img>
 </a>
