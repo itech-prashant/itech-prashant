@@ -26,10 +26,10 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 <br>
 
 ### 📖 &nbsp; About Me
-- 🌱 **Data Engineering** at [Databricks, Azure and Fabric Platform](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture)
+- 🌱 **Data Engineering** at [Databricks, Azure and Fabric](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture) Plaforms
 - 🐍 **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in) , [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
 - 👨‍💻 Some of my projects are available at [Github Profile](https://github.com/itech-prashant)
-- 🧭 Currently working on **Microsoft Fabric Data Engineering and Analytics Platform**
+- 🧭 Currently working on **Databricks Data Intelligence Plaform | Microsoft Fabric Data Engineering and Analytics Platform**
 
 <!-- - 📝 I regularly write articles on [my blog](https://itech-prashant.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://itech-prashant.in) -->
