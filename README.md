@@ -51,7 +51,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 </img>
 </a>
 &emsp;
-<a target="_blank" href="https://instagram.com/prashant.xplorer">
+<a target="_blank" href="https://instagram.com/prashant.reinvented">
 <img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white">
 </img>
 </a>
@@ -76,7 +76,7 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
   </img>
 </a>
 &emsp;
-<a target="_blank" href="https://threads.net/@prashant_xplorer">
+<a target="_blank" href="https://threads.net/@prashant.reinvented">
   <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
   </img>
 </a>
