@@ -84,10 +84,10 @@ Driven by innovation and results, I continuously explore cutting-edge technologi
 <br>
 
 ### 📖 &nbsp; About Me
- <p>🌱 **Data Engineering** on [Databricks, Azure & Fabric](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture) Plaforms</p>
- <p>🐍 Previously **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in) , [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)</p>
- <p>👨‍💻 Some of my projects are available at [Github Profile](https://github.com/itech-prashant)</p>
- <p>🧭 Currently working on **Databricks Data Intelligence Plaform | Microsoft Fabric Data Engineering and Analytics Platform** </p>
+- 🌱 **Data Engineering** on [Databricks, Azure & Fabric](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture) Plaforms
+- 🐍 Previously **Data Engineer** at [Infinity Labs](https://www.infinitylabs.in) , [Xduce](https://www.xduce.com) and [TCS](https://www.tcs.com)
+- 👨‍💻 Some of my projects are available at [Github Profile](https://github.com/itech-prashant)
+- 🧭 Currently working on **Databricks Data Intelligence Plaform | Microsoft Fabric Data Engineering and Analytics Platform**
 
 <!-- - 📝 I regularly write articles on [my blog](https://itech-prashant.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://itech-prashant.in) -->
