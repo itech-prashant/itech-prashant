@@ -3,7 +3,7 @@
 Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Prashant
 </h1>
 <h3 align="center">
-Cloud Data Engineer | Microsoft Azure and Databricks Certified Data Engineer Associate
+Cloud Data Engineer | Gen AI Engineer | Microsoft Azure, Fabric & Databricks Certified Data Engineer Associate
 </h3>
 <h4>
 I am deeply passionate about Data Engineering, Data Science, Machine Learning, Gen AI and DataOps.<br>Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.
@@ -90,61 +90,6 @@ I am deeply passionate about Data Engineering, Data Science, Machine Learning, G
 <!-- - 📝 I regularly write articles on [my blog](https://itech-prashant.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://itech-prashant.in) -->
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/itech-prashant) -->
-
-### ✉️ &nbsp; Connect with me
-<p align="left">
-<a target="_blank" href="https://topmate.io/itech_prashant">
-<img src="https://img.shields.io/badge/Topmate.io-2D2D2D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE2IDBDNy4yMTggMCAwIDcuMjE4IDAgMTZzNy4yMTggMTYgMTYgMTYgMTYtNy4yMTggMTYtMTYtNy4yMTgtMTYtMTYtMTZ6bTAgMmMxLjU2NCAwIDMuMTA2LjI4NyA0LjUzMS44NDIuMjg3LjExLjM3NS40NjIuMTg0LjcwOC0uMDYyLjA5Ni0uMTQyLjE3My0uMjQyLjIxOC0xLjIxNC41MTUtMi4yODQgMS4yNzUtMy4xNzIgMi4xNjgtMS45MTYgMS45MTYtMi45NTIgNC40NzYtMi45NTIgNy4wNTggMCAxLjEzMy4xODQgMi4yNjguNTY0IDMuMzEzLjE1OC4zNjcuMDIuNzktLjMwNSAxLjA0Mi0uNjc3LjU0NS0xLjI4OCAxLjIyNy0xLjgyOSAxLjkyNC0uNDEuNTU2LS4zODguMTI2LjY2LS4xNTguNTQ1LS4xMzMuOTcyLjQ2OCAuNzY1IDEuMDE3LS4zNzQuODgtLjUwNiAxLjkwNi0uMzIzIDIuODIxLjE1OC44MzUuNTI4IDEuNTkyIDEuMTAzIDIuMjQ3LjE1LjE3OS4zMDMuMzUuNDYuNTE2LjE3LjE4My4yNzQuNDI3LjMwNy42NzEuMDM0LjI0NS0uMDUzLjQ5Mi0uMjM2LjY2OC0uNTQyLjUyNi0xLjE2NS45NjYtMS44NDMuMTIxLS4wNjQuMjU3LS4wNy4zODMtLjAzNiAxLjY1Ni40MjYgMy4zMTEuNDI2IDQuOTY3IDAgMS4zMy0uMzYzIDIuNjItMS4wNDMgMy43NC0uMTEuMTgtLjM0Mi4yMi0uNTI1LjA5My0xLjAwOC0uNzEtMi4wMjUtMS4zODEtMy4wNDItMi4wMDMtLjI5Mi0uMTc5LS42NjgtLjE0My0uOTEyLjA4My0xLjIyLjc3Ni0yLjY3MiAxLjM2OC00LjIxMiAxLjc1OC0uMjUzLjA2NC0uNTExLS4xNjMtLjU0Ny0uNDI3LS4wMjktLjIzOS4wNTYtLjQ3Ni4yMjUtLjYzOC4zNy0uMzMuNzY5LS42MzIgMS4xODItLjkwNiAxLjE3MS0uNzk0IDIuMzUyLTEuNjYgMy4zODQtMi42ODguNzI4LS43MiAxLjM3Ni0xLjUzMiAxLjkyNC0yLjQwMi4wOTUtLjE2Mi4wNzgtLjM2OS0uMDQ1LS41MTctMS4yMzgtMS40NjYtMi4wNTUtMy4zMi0yLjI4Ni01LjI1NC0uMDMtLjI3Mi4xOTUtLjUxNC40NzQtLjUxNHoiLz48L3N2Zz4=&logoColor=white" alt="Topmate.io Badge">
-</a>
-&emsp;
-<a target="_blank" href="https://www.linkedin.com/in/itech-prashant">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-</img>
-</a>
-&emsp;
-<a target="_blank" href="mailto:itech.prash@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
-</img>
-</a>
-&emsp;
-<a target="_blank" href="https://instagram.com/prashant.reinvented">
-<img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white">
-</img>
-</a>
-&emsp;
-<a target="_blank" href="https://x.com/itech_prashant">
-<img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white">
-</img>
-</a>
-&emsp;
-<a target="_blank" href="https://facebook.com/itech.prashant">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </img>
-</a>
-&emsp;
-<a target="_blank" href="https://youtube.com/@prashant_realist">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </img>
-</a>
-&emsp;
-<a target="_blank" href="https://wa.me/917979849339">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </img>
-</a>
-&emsp;
-<a target="_blank" href="https://threads.net/@prashant.reinvented">
-  <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
-  </img>
-</a>
-&emsp;
-<a target="_blank" href="https://t.me/tg_deml">
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </img>
-</a>
-&emsp;
-
-
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
