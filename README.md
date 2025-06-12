@@ -3,10 +3,12 @@
 Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Prashant
 </h1>
 <h3 align="center">
-Cloud Data Engineer | Gen AI Engineer | Microsoft Azure, Fabric & Databricks Certified Data Engineer Associate
+Cloud Data Engineer | Gen AI Engineer | Microsoft Azure, Fabric & Databricks Certified Associate
 </h3>
 <h4>
-I am deeply passionate about Data Engineering, Data Science, Machine Learning, Gen AI and DataOps.<br>Constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.
+I specialize in delivering end-to-end data and AI solutions that drive measurable business value.
+With deep expertise in Data Engineering, Machine Learning, Gen AI, and DataOps, I help organizations modernize their data platforms, automate analytics, and implement intelligent systems.
+Driven by innovation and results, I continuously explore cutting-edge technologies to solve complex challenges and unlock strategic insights for clients. 
 </h4>
 
 ### ✉️ &nbsp; Connect with me
